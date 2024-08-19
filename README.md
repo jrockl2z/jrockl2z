@@ -16,8 +16,3 @@ I am a Front-End web developer based in Thailand, specializing in developing man
 </p>
 
 
-### Socials
-
-### Badges
-
-
