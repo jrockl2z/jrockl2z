@@ -20,7 +20,4 @@ I am a Front-End web developer based in Thailand, specializing in developing man
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jrockl2z"><img src="https://github-readme-stats.vercel.app/api?username=jrockl2z&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="jrockl2z's GitHub stats" /></a>
 
