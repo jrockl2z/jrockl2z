@@ -26,4 +26,3 @@ I am a Front-End web developer based in Thailand, specializing in developing man
 
 <a href="http://www.github.com/jrockl2z"><img src="https://github-readme-stats.vercel.app/api?username=jrockl2z&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="jrockl2z's GitHub stats" /></a>
 
-<a href="http://www.github.com/jrockl2z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jrockl2z&bg_color=22272e&color=ffffff&line=14b8a6&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
